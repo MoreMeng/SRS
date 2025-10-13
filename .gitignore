@@ -1,0 +1,5 @@
+# Ignore all directories
+*/
+
+# But allow specific files in root directory if needed
+# (files are included by default unless explicitly ignored)
